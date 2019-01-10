@@ -1,0 +1,2 @@
+# stocktools
+myself use
