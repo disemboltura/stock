@@ -32,3 +32,6 @@ stock realtime data api:
 (22, 23), (24, 25), (26,27), (28, 29)分别为“卖二”至“卖五”的申报股数及其价格；
 30：“2016-09-14”，日期；
 31：“15:11:03”，时间；
+
+
+> git push https://usename:password@github.com/disemboltura/stock.git
