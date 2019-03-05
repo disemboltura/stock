@@ -34,4 +34,6 @@ stock realtime data api:
 31：“15:11:03”，时间；
 
 
+使用账户和密码 push 
+------
 > git push https://usename:password@github.com/disemboltura/stock.git
